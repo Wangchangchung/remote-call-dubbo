@@ -1,4 +1,4 @@
-package com.wcc.dubbo.api.service;
+package com.wcc.dubbo.service;
 
 /**
  * @author charse

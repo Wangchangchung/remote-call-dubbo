@@ -1,6 +1,6 @@
 package com.wcc.dubbo.service.impl;
 
-import com.wcc.dubbo.api.service.BaseDataService;
+import com.wcc.dubbo.service.BaseDataService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

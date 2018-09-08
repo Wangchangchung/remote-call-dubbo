@@ -11,7 +11,7 @@
     <!--使用zk 注册中心暴露服务地址-->
     <dubbo:registry address="zookeeper://127.0.0.1:2181"/>
 
-    <dubbo:reference id="baseDataService" interface="com.wcc.dubbo.api.service.BaseDataService" check="false"  />
+    <dubbo:reference id="baseDataService" interface="com.wcc.dubbo.service.BaseDataService" check="false"  />
 
 
 </beans>

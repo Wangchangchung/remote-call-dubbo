@@ -1,5 +1,5 @@
 
-import com.wcc.dubbo.api.service.BaseDataService;
+import com.wcc.dubbo.service.BaseDataService;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
